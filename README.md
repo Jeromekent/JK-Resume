@@ -45,7 +45,7 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **员工考勤信息管理系统                     2020-03 ~ 2020-04**
+- **<a href="https://github.com/Jeromekent/data-Practicum">员工考勤信息管理系统 </a>                    2020-03 ~ 2020-04**
 
   *ASP.net 　　Ajax　　MySQl　　jQuery*
 
