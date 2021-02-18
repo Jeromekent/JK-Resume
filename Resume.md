@@ -3,12 +3,12 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             18829513795
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             jiangkun1919@163.com
          </span>
          ·
          <span>
@@ -34,7 +34,7 @@
 
 - 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
 - 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
+- 绩点：2.8，年级前 30%
 - 通过了 CET4/6 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
