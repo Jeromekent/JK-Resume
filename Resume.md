@@ -13,7 +13,7 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/jeronekent">Jerome Kent</a>
+             <a href="https://github.com/jeromekent">Jerome Kent</a>
          </span>
          </span>
      </div>
