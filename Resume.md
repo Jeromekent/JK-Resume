@@ -1,5 +1,5 @@
  <center>
-     <h1>XXX</h1>
+     <h1>蒋坤</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -25,38 +25,40 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 男，1999 年出生
+ - 意向工作地点：西安、兰州
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
+- 学士，西安建筑科技大学，计算机科学与技术工程专业，2017.9~2021.7
 - 绩点：2.8，年级前 30%
-- 通过了 CET4/6 英语等级考试
+- 主修科目：Java程序设计、面向对象程序设计、web应用开发、数据库、软件工程
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 实践经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **信息与控制工程学院  院学生会学习部部长   2018-09 ~ 2019-07**
 
-   负责 XXX
+   带领学习部13位成员，协助校教务处组织本校2019年全国计算机等级考试，协助组织2018~2019学年两次四六级英语考试。
+   
+- **软通动力(认识实习)    实习项目小组长     2019-01 ~ 2019-01**
+
+   组织9名同学完成售货店管理系统的需求分析概要设计详细设计以及测试用例等文档的设计与编撰。
+
+- **软通动力（生产实习）    测试人员         2020-12 ~ 2021-01**
+
+   用SVN与其他组员合作完成一个已有的系统的UT代码测试，我主要编写测试用例及缺陷清单。
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **员工考勤信息管理系统                     2020-03 ~ 2020-04**
 
-  *使用到的技术*
+  *ASP.net  Ajax  MySQl  jQuery*
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  这是我们的一个课程设计，一个基于.NET/C#，实现对数据库信息进行增删改查等操作的web应用系统。我主要设计部分网页（简易），在mvc架构下使用Ajax响应事件完成部分功能，并使用MySQL语句创建视图来统计信息。
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
+- ★★★ Java、C++
+- ★★☆ Python
 - ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★★☆ JavaScript css
