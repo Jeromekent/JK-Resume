@@ -26,7 +26,7 @@
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 学士，西安建筑科技大学，计算机科学与技术工程专业，2017.9~2021.7
-- 绩点：3.2 年级前 20%
+- 绩点：3.2 　　年级前 15%
 - 主修科目：Java程序设计、面向对象程序设计、web应用开发、数据库、软件工程
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 实践经历
